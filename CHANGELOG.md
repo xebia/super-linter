@@ -1,5 +1,26 @@
 # Changelog
 
+## [8.0.1](https://github.com/super-linter/super-linter/compare/v8.0.0...v8.0.1) (2025-07-23)
+
+
+### ⬆️ Dependency updates
+
+* **docker:** bump the docker group with 5 updates ([#6896](https://github.com/super-linter/super-linter/issues/6896)) ([f651b3c](https://github.com/super-linter/super-linter/commit/f651b3c4e87f8537472a4325890ca2319358e856))
+* **java:** bump com.pinterest.ktlint:ktlint-cli ([#6894](https://github.com/super-linter/super-linter/issues/6894)) ([b5fcc9b](https://github.com/super-linter/super-linter/commit/b5fcc9b4c9c1b7178944aeb02dd3f2f968dde98f))
+* **npm:** bump @eslint/plugin-kit ([#6886](https://github.com/super-linter/super-linter/issues/6886)) ([83aa3a5](https://github.com/super-linter/super-linter/commit/83aa3a571aa297c9bcda5d7fb95fd34e814fddd9))
+* **npm:** bump @typescript-eslint/eslint-plugin ([#6893](https://github.com/super-linter/super-linter/issues/6893)) ([73f831b](https://github.com/super-linter/super-linter/commit/73f831b59b0df2451dc33b033aa4c9bf97d9b5e8))
+* **npm:** bump next ([#6895](https://github.com/super-linter/super-linter/issues/6895)) ([9d496e9](https://github.com/super-linter/super-linter/commit/9d496e9666e9500a2a4571728e291bdd22f5c5d7))
+* **npm:** bump react-router-dom ([#6889](https://github.com/super-linter/super-linter/issues/6889)) ([320e5c4](https://github.com/super-linter/super-linter/commit/320e5c48041b05ea26ce24100167e3780f6afea7))
+* **npm:** bump stylelint ([#6891](https://github.com/super-linter/super-linter/issues/6891)) ([fa38c73](https://github.com/super-linter/super-linter/commit/fa38c73b48860d5bd728d645b566978a346c247a))
+* **npm:** bump the eslint-plugins-configs group across 1 directory with 2 updates ([#6890](https://github.com/super-linter/super-linter/issues/6890)) ([8d9b03d](https://github.com/super-linter/super-linter/commit/8d9b03dcddecbb9420dfa3b6938cd01bd43ad3c3))
+* **npm:** bump the npm_and_yarn group across 1 directory with 2 updates ([#6901](https://github.com/super-linter/super-linter/issues/6901)) ([a412a4d](https://github.com/super-linter/super-linter/commit/a412a4dc130ce4f9ef5324b9d3fc297ef2e4fff8))
+
+
+### 🧰 Maintenance
+
+* add natural language fix option in readme ([#6898](https://github.com/super-linter/super-linter/issues/6898)) ([6063ad4](https://github.com/super-linter/super-linter/commit/6063ad43180bb201d0d9f1eb5c1ecdc8217fac7c)), closes [#6897](https://github.com/super-linter/super-linter/issues/6897)
+* **dev-docker:** bump node in /dev-dependencies ([#6888](https://github.com/super-linter/super-linter/issues/6888)) ([d19c143](https://github.com/super-linter/super-linter/commit/d19c1437c995e4e3730fab2e8685032fd76c6703))
+
 ## [8.0.0](https://github.com/super-linter/super-linter/compare/v7.4.0...v8.0.0) (2025-07-17)
 
 
